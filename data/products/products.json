@@ -1,0 +1,43 @@
+[{
+    "id": "1",
+    "name": "Klingon dictionary",
+    "price": 34.87,
+    "image": "/img/banners/banner-1.jpg",
+    "description": "nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI'",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "2",
+    "name": "Captain Kirk Phaser",
+    "description": "The Original Series Phaser comprises a small, hand-held Type I Phaser, which slots into a larger Type II Phaser body with a removable pistol-grip.",
+    "price": 145.98,
+    "image": "/img/banners/banner-2.jpg",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "3",
+    "name": "Captain Kirk Phaser",
+    "description": "The Original Series Phaser comprises a small, hand-held Type I Phaser, which slots into a larger Type II Phaser body with a removable pistol-grip.",
+    "price": 145.98,
+    "image": "/img/banners/banner-3.jpg",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "4",
+    "name": "Captain Kirk Phaser",
+    "description": "The Original Series Phaser comprises a small, hand-held Type I Phaser, which slots into a larger Type II Phaser body with a removable pistol-grip.",
+    "price": 145.98,
+    "image": "/img/banners/banner-4.jpg",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "5",
+    "name": "Captain Kirk Phaser",
+    "description": "The Original Series Phaser comprises a small, hand-held Type I Phaser, which slots into a larger Type II Phaser body with a removable pistol-grip.",
+    "price": 145.98,
+    "image": "/img/banners/banner-5.jpg",
+    "url": "http://snipcart-hugo.netlify.com"
+}, {
+    "id": "6",
+    "name": "Captain Kirk Phaser",
+    "description": "The Original Series Phaser comprises a small, hand-held Type I Phaser, which slots into a larger Type II Phaser body with a removable pistol-grip.",
+    "price": 145.98,
+    "image": "/img/banners/banner-1.jpg",
+    "url": "http://snipcart-hugo.netlify.com"
+}]
