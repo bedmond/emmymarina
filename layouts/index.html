@@ -3,7 +3,7 @@
 
   {{ partial "head.html" . }}
 
-  {{ $products := getJSON "/data/products/products.json" }}
+  <!--{{ $products := getJSON "/data/products/products.json" }}-->
 
   <body>
 
@@ -18,7 +18,7 @@
         </header>
 
         {{ partial "carousel.html" . }}
-      <section class="bar background-white">
+      <!--<section class="bar background-white">
         <div class="container">
           <div class="row">
             {{ range $products }}
@@ -26,15 +26,15 @@
             {{ end }}
           </div>
         </div>
-      </section>
+      </section>-->
+
+        {{ partial "recent_posts.html" . }}
 
         {{ partial "features.html" . }}
 
         {{ partial "testimonials.html" . }}
 
         {{ partial "see_more.html" . }}
-
-        {{ partial "recent_posts.html" . }}
 
         {{ partial "clients.html" . }}
 
